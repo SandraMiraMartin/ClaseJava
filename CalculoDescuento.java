@@ -28,7 +28,6 @@ public class CalculoDescuento {
         System.out.println("Te ahorras: " + ahorro + "€");
         System.out.println("Total a pagar: " + precioFinal + "€");
 
-        /* 
         // 3. Mostrar los resultados en la consola controlando los decimales
         System.out.println("--- TICKET DE VENTA ---");
 
@@ -41,6 +40,6 @@ public class CalculoDescuento {
 
         System.out.printf("Te ahorras: %.2f€ %n", ahorro);
         System.out.printf("Total a pagar: %.2f€ %n", precioFinal);
-         */
+
     }
 }
